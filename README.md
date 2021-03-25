@@ -1,2 +1,7 @@
 # Food-Recipes-app
-This app was built with React JS and it connects to a food recipes API called Edamam.
+Lets you search up food recipes through a thrid-party Edamam API 
+
+Next install all dependicies.
+```bash
+npm i react bootstrap
+```
