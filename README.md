@@ -1,5 +1,5 @@
 # Food-Recipes-app
-Lets you search up food recipes through a thrid-party Edamam API 
+Lets you search up food recipes through a third-party Edamam API 
 
 Next install all dependicies.
 ```bash
